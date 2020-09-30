@@ -1,0 +1,4 @@
+
+- parametros opcionais
+
+- novo projecto -> tentar utilizar funcoes novas aprendidas
